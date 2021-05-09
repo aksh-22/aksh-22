@@ -1,16 +1,33 @@
-### Hi there 👋 !! I'm Akash Khandelwal (Full Stack Web Developer)
+## Hi there 👋 !! I'm Akash Khandelwal (Full Stack Web Developer).
+After i Explores myself in diffrent diffrent field i landed in coding era , since then i'm enjoying it. I hold degree of Bachelor of Technology specialised in Computer Science.
 
-<!--
-**aksh-22/aksh-22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Me Right Now
+- 🔭 I’m currently working on NodeJs Project called **Book-Hub**
+- 🌱 I’m currently learning **React Js**
+-  👯 I’m looking to collaborate on [**Github**](https://github.com/aksh-22) or [**Twitter**](https://twitter.com/aksh__22)
+-   💬 Ask me about HTML , CSS , JS , REACT JS , NODE JS , MONGO DB , EXPRESS JS , MONGOOSE
+-   📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ak2298/) |  [**Twitter**](https://twitter.com/aksh__22) | [**Github**](https://github.com/aksh-22)
+-   ⚡ Fun fact: Me Always ready to meet new people and know about them and ofcourse code with them :wink:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Technologies i'm Working on to make web apps live.
+<img align="left" alt="Visual Studio Code" width="26px" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="26px" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Sass" width="26px" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="JavaScript" width="26px" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Node.js" width="26px" height="26px" src="https://pluralsight.imgix.net/paths/path-icons/nodejs-601628d09d.png" />
+<img align="left" alt="MongoDB" width="26px" height="26px" src="https://miro.medium.com/max/3200/1*DiNIG4Bfpm65_wwXf_JwMA.png" />
+<img align="left" alt="Git" width="26px" height="26px" src="https://avatars3.githubusercontent.com/u/18133?s=200&v=4" />
+
+<br />
+
+
+---
+
+### Technologies i'm planning to learn after react.
+<img align="left" alt="Vue.js" width="26px" height="26px" src="https://user-images.githubusercontent.com/56211500/117583209-8c416600-b123-11eb-86fb-81444160f8c4.jpg" />
+
