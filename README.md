@@ -1,4 +1,4 @@
-## Hi there 👋 !! I'm Akash Khandelwal (Full Stack Web Developer).
+## Hi there 👋 !! I'm Akash Khandelwal (MERN Stack Web Developer).
 After i Explores myself in diffrent diffrent field i landed in coding era , since then i'm enjoying it. I hold degree of Bachelor of Technology specialised in Computer Science.
 
 ---
