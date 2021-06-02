@@ -29,5 +29,5 @@ After i Explores myself in diffrent diffrent field i landed in coding era , sinc
 ---
 
 ### Technologies i'm planning to learn after react.
-<img align="left" alt="angular.js" width="40px" height="40px" src="https://user-images.githubusercontent.com/56211500/117583209-8c416600-b123-11eb-86fb-81444160f8c4.jpg" />
+<img align="left" alt="angular.js" width="40px" height="40px" object-fit="cover" src="https://user-images.githubusercontent.com/56211500/117583209-8c416600-b123-11eb-86fb-81444160f8c4.jpg" />
 
