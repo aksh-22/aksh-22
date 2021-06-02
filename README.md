@@ -21,7 +21,7 @@ After i Explores myself in diffrent diffrent field i landed in coding era , sinc
 <img align="left" alt="JavaScript" width="26px" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Node.js" width="26px" height="26px" src="https://pluralsight.imgix.net/paths/path-icons/nodejs-601628d09d.png" />
 <img align="left" alt="MongoDB" width="26px" height="26px" src="https://miro.medium.com/max/3200/1*DiNIG4Bfpm65_wwXf_JwMA.png" />
-<img align="left" alt="Git" width="26px" height="27px" src="https://avatars3.githubusercontent.com/u/18133?s=200&v=4" />
+<img align="left" alt="Git" width="26px" height="26px" src="https://avatars3.githubusercontent.com/u/18133?s=200&v=4" />
 
 <br />
 
@@ -29,5 +29,5 @@ After i Explores myself in diffrent diffrent field i landed in coding era , sinc
 ---
 
 ### Technologies i'm planning to learn after react.
-<img align="left" alt="angular.js" width="40px" height="40px" object-fit="cover" src="https://user-images.githubusercontent.com/56211500/117583209-8c416600-b123-11eb-86fb-81444160f8c4.jpg" />
+<img align="left" alt="angular.js" width="50px" height="40px" object-fit="cover" src="https://user-images.githubusercontent.com/56211500/117583209-8c416600-b123-11eb-86fb-81444160f8c4.jpg" />
 
