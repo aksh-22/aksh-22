@@ -7,7 +7,7 @@ I like creating logics and writing functionalities in JS. I hold degree of Bache
 - 🔭 I’m currently using **MERN Stack Teachnology** from last 3 years to build projects.
 - 🌱 I’ve worked on more than 7 projects.
 -  👯 I’m looking to collaborate on [**Github**](https://github.com/aksh-22) or [**Twitter**](https://twitter.com/aksh__22)
--   💬 Ask me about HTML , CSS , JS , REACT JS , NODE JS , MONGO DB , EXPRESS JS , MONGOOSE , REACT NATIVE
+-   💬 Ask me about NEST JS, REACT JS, REACT NATIVE, HTML, CSS, JS, NODE JS, MONGO DB, EXPRESS JS, MONGOOSE.
 -   📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ak2298/) |  [**Twitter**](https://twitter.com/aksh__22) | [**Github**](https://github.com/aksh-22)
 -   ⚡ Fun fact: Me Always ready to meet new people and know about them and ofcourse code with them :wink:
 
