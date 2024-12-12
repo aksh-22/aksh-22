@@ -17,6 +17,16 @@ I’m a self-taught **Full-Stack Developer** with over three years of experienc
 
 ## Technologies I’m Working On
 
+<img align="left" alt="Visual Studio Code" width="26px" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="26px" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Sass" width="26px" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="JavaScript" width="26px" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Node.js" width="26px" height="26px" src="https://pluralsight.imgix.net/paths/path-icons/nodejs-601628d09d.png" />
+<img align="left" alt="MongoDB" width="26px" height="26px" src="https://miro.medium.com/max/3200/1*DiNIG4Bfpm65_wwXf_JwMA.png" />
+<img align="left" alt="Git" width="26px" height="26px" src="https://avatars3.githubusercontent.com/u/18133?s=200&v=4" />
+<img align="left" alt="Git" width="26px" height="26px" src="https://user-images.githubusercontent.com/56211500/122650881-eede4680-d152-11eb-8fc1-b1d98a20acc9.png" />
+
 ---
 
 ## Technologies I’m Planning to Learn
