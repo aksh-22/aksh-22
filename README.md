@@ -27,6 +27,7 @@ I’m a self-taught **Full-Stack Developer** with over three years of experienc
 <img align="left" alt="Git" width="26px" height="26px" src="https://avatars3.githubusercontent.com/u/18133?s=200&v=4" />
 <img align="left" alt="Git" width="26px" height="26px" src="https://user-images.githubusercontent.com/56211500/122650881-eede4680-d152-11eb-8fc1-b1d98a20acc9.png" />
 
+<br />
 ---
 
 ## Technologies I’m Planning to Learn
