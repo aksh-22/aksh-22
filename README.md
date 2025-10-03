@@ -20,7 +20,7 @@
 📬 **Let’s Connect**:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/akash-khandelwal22/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/aksh-22)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat\&logo=twitter\&logoColor=white)]([https://twitter.com/aksh__22](https://x.com/akashkhand40483))
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat\&logo=twitter\&logoColor=white)](https://x.com/akashkhand40483)
 
 ---
 
