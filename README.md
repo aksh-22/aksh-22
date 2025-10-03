@@ -1,44 +1,63 @@
-## Hi there 👋 !! I'm Akash Khandelwal
+# 👋 Hi there, I’m **Akash Khandelwal**
 
-I’m a self-taught **Full-Stack Developer** with over three years of experience specialising in MERN Stack and React Native. I discovered my passion for web development during my B. Tech in Computer Science and have been crafting efficient, scalable, and user-friendly solutions ever since.
-
----
-
-## Me Right Now
-
-- 🔧 **What I’m Building**: Leveraging **MERN Stack Technology** to deliver impactful projects and in-house tools.
-- 🌱 **What I’m Exploring**: Diving deeper into **Microservices**, **Event-Driven Architecture**, **Domain-Driven Design**, and exploring **AI/ML**.
-- 🛠️ **What I’ve Done**: Worked on over **7+ projects**, including automation tools, front-end and back-end solutions, and scalable system designs.
-- 🌐 **What I Want**: Always ready to collaborate with passionate developers. [Let’s connect on GitHub](https://github.com/aksh-22) or [Twitter](https://twitter.com/aksh__22)!
-- ✉️ **Reach Me At**: [LinkedIn](https://www.linkedin.com/in/ak2298/) | [Twitter](https://twitter.com/aksh__22) | [GitHub](https://github.com/aksh-22)
-- 😂 **Fun Fact**: Always excited to meet new people and brainstorm innovative solutions—especially if it involves **coding**! 😉
+🚀 A self-taught **Full-Stack Developer** with 3+ years of experience building scalable, user-friendly, and impactful solutions using **MERN Stack & React Native**.
+💡 Passionate about **system design, automation, and AI/ML exploration**.
 
 ---
 
-## Technologies I’m Working On
+## 🔥 About Me
 
-<img align="left" alt="Visual Studio Code" width="26px" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img align="left" alt="Visual Studio Code" width="26px" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Visual Studio Code" width="26px" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Visual Studio Code" width="26px" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+* 🎯 **Current Focus**: Building impactful projects using the **MERN Stack** and in-house tools.
+* 🌱 **Learning & Exploring**:
 
-<br />
+  * Microservices
+  * Event-Driven Architecture
+  * Domain-Driven Design
+  * AI/ML (applied to real-world use cases)
+* 🛠️ **Track Record**: Delivered **7+ projects** (front-end, back-end, automation, and scalable systems).
+* 🤝 **Collaboration**: Always open to teaming up with passionate developers & innovators.
+
+📬 **Let’s Connect**:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/akash-khandelwal22/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/aksh-22)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat\&logo=twitter\&logoColor=white)]([https://twitter.com/aksh__22](https://x.com/akashkhand40483))
 
 ---
 
-## Technologies I’m Planning to Learn
+## ⚡ Tech Stack
 
-- **Kafka and RabbitMQ**: Building scalable, event-driven systems.
-- **Kubernetes & Docker**: Enhancing CI/CD pipelines and container orchestration.
-- **GraphQL**: Optimizing APIs for modern applications.
+### 💻 Languages & Frameworks
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat\&logo=typescript\&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat\&logo=react\&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat\&logo=react\&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat\&logo=node.js\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat\&logo=express\&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat\&logo=nestjs\&logoColor=white)
+
+### 🗄️ Databases & Tools
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat\&logo=mongodb\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat\&logo=postman\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat\&logo=docker\&logoColor=white)
 
 ---
 
-## Highlights
+## 📚 What’s Next?
 
-- **Scalable Systems**: Designed microservices using **NestJS** and **Mongoose**.
-- **Efficient Workflows**: Automated manual processes to save time and resources.
-- **Comprehensive Solutions**: Delivered end-to-end software projects—from requirement gathering to deployment.
+* **Kafka & RabbitMQ** → Mastering event-driven architecture.
+* **Kubernetes & Docker** → Improving CI/CD pipelines & container orchestration.
+* **GraphQL** → Designing optimized, modern APIs.
 
-Let’s collaborate and create something amazing together!
+---
 
+## ✨ Highlights
+
+* 🏗️ **Scalable Systems**: Built microservices with **NestJS** & **Mongoose**.
+* ⚡ **Automation**: Designed tools to eliminate repetitive workflows.
+* 🛠️ **End-to-End Delivery**: From requirements to deployment.
+
+---
+
+🙌 Let’s collaborate and **build something amazing together!**
